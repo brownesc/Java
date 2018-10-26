@@ -1,8 +1,5 @@
 //Purpose: Table
 //Program Name: SBrowne04_02
-//Author Steven Browne
-//ID 870539247
-//CS1301-Homework 4
 //Date 10/22
 import java.util.Scanner;
 public class SBrowne04_02{
